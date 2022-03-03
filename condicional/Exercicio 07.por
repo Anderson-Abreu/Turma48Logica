@@ -8,7 +8,7 @@ programa
 		leia (b,h)
 		se(b>0 e h>0)
 		{
-			t=b*h
+			t=(b*h)/2
 			escreva("\nA area do triangulo é ", t)
 		}
 		senao
